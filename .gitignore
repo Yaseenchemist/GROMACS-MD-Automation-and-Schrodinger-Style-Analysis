@@ -1,15 +1,16 @@
-# Heavy simulation outputs
+# heavy / generated simulation outputs
 *.xtc
 *.trr
 *.dcd
 *.tpr
 *.cpt
 *.edr
-*.gro~
 *.log
 *.zip
 *.tar.gz
-*#*
-.DS_Store
+# python / OS
 __pycache__/
 *.pyc
+.DS_Store
+*#*
+.venv/
