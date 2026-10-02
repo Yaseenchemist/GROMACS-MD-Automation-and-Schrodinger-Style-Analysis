@@ -1,0 +1,15 @@
+# Heavy simulation outputs
+*.xtc
+*.trr
+*.dcd
+*.tpr
+*.cpt
+*.edr
+*.gro~
+*.log
+*.zip
+*.tar.gz
+*#*
+.DS_Store
+__pycache__/
+*.pyc
